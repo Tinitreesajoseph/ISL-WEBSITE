@@ -126,7 +126,7 @@ nav {
 }
 
 .header__container::before {
-  content: "FITNESS";
+  content: "KBFC";
   position: absolute;
   bottom: 5rem;
   right: 20rem;
